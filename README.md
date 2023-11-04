@@ -15,4 +15,13 @@
 
 Follow these steps to run the game:
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/jmdharshana/Tic-Tac-Toe/blob/main/TicTacToe.c
+2. Navigate to the project directory:cd TicTacToe
+3. Compile the code:gcc tictactoe.c -o tictactoe
+4. Run the program:./tictactoe
+
+
+## License
+
+This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
+
